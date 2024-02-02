@@ -1,3 +1,5 @@
+#Trick-Privacy-Policy
+
 Privacy Policy for Trick Discord Bot
 
 At Trick, accessible from https://discord.com/api/oauth2/authorize?client_id=1151088490583429142&permissions=554104613249&scope=applications.commands%20bot, one of our main priorities is the privacy of our users. This Privacy Policy document contains types of information that is collected and recorded by Trick and how we use it.
