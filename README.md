@@ -1,4 +1,4 @@
-#Trick-Privacy-Policy
+# Trick-Privacy-Policy
 
 Privacy Policy for Trick Discord Bot
 
